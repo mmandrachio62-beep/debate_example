@@ -1,0 +1,46 @@
+/* This is a CSS file */
+
+/*Using * applies to everything on the page */
+
+*{font-family: Arial, "Brush Script MT",sans-serif;}
+
+
+/*Tell all the H1 tags to follow the below fonts*/
+
+h1 {
+	font-family: "Courier New", Courier, monospace;
+}
+
+em {
+	color: green;
+}
+
+/*Tell all the emphasized text to be red*/
+
+em {
+	color: red;
+}
+
+/*Tell all the strong text to be pink */
+
+strong {
+	color: fuchsia;
+}
+
+strong {
+	color: blue !important;
+}
+
+Strong {
+	color: violet;
+}
+
+/* Change Intro text to 120% */
+
+.intro {font-size: 120%}
+
+p{
+	font-size: 75%;
+}
+
+#special {background-color: yellow;}
