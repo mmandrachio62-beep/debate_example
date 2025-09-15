@@ -1,1 +1,38 @@
 img{width:500px}
+
+h1 {
+	font-family:"Bebas Neue","Times New Roman", arial;
+}
+
+h1{
+	color:grey
+}
+h1 {
+    text-transform: uppercase;
+}
+
+figcaption {
+	color:grey;
+
+figcaption}
+
+body {
+    font-family: Georgia, serif;
+
+h6 {
+    color: gray;
+
+}
+
+/* Party colors */
+.democrat {
+  color: blue;
+  font-weight: bold;
+}
+
+.republican {
+  color: red;
+  font-weight: bold;
+}    
+
+
